@@ -1,5 +1,5 @@
 <h1>YOLOL</h1>
-<p>Object detection Yolo</p>
+<p>Object detection Yolo & Opencv dengan python3</p>
 
 ```python3
 from datetime import datetime
